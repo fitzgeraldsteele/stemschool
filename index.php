@@ -139,12 +139,12 @@
         <div class="span6">
           <img src="media/brooke-circle.png" alt="">
           <h3>Brookehart Shields, Ph.D.</h3>
-          <p>Dr Shields received her Ph.D in Biology from the University of Iowa, and taught at Luther College in Decorah, IA.</p>
+          <p>Dr Shields received her Ph.D in Biology from the University of Iowa, and taught at Luther College in Decorah, IA focusing on topics such as cell biology and biophysics.</p>
         </div>
         <div class="span6">
           <img src="media/adam-circle.png" alt="">
           <h3>Adam Specht</h3>
-          <p>Adam has a degree in History from the University of Iowa. For the past two years, he has served as Board Chairman of the Northeast Iowa Montessori School.</p>
+          <p>Adam has a degree in History from the University of Iowa. For the past two years, he has served as Board Chairman of the Northeast Iowa Montessori School. Adam is an avid runner, gardner, and farmer.</p>
         </div>
       </div>
       <div class="row">
