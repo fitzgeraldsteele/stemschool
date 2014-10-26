@@ -139,24 +139,24 @@
         <div class="span6">
           <img src="media/brooke-circle.png" alt="">
           <h3>Brookehart Shields, Ph.D.</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos molestiae quae quos fugit voluptates sunt fuga debitis veniam expedita ab ut quidem itaque magnam quo consectetur perferendis odit obcaecati suscipit.</p>
+          <p>Dr Shields received her Ph.D in Biology from the University of Iowa, and taught at Luther College in Decorah, IA.</p>
         </div>
         <div class="span6">
           <img src="media/adam-circle.png" alt="">
           <h3>Adam Specht</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium tenetur voluptate. Debitis ut tempora voluptate repellat. Est dolore provident laudantium veritatis odit necessitatibus quibusdam vitae harum beatae vero labore aliquam?</p>
+          <p>Adam has a degree in History from the University of Iowa. For the past two years, he has served as Board Chairman of the Northeast Iowa Montessori School.</p>
         </div>
       </div>
       <div class="row">
         <div class="span6">
           <img src="media/sara-circle.png" alt="">
           <h3>Sara Steele</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste magni molestiae sed commodi magnam doloribus recusandae dolorum reprehenderit aspernatur ad earum at provident voluptatum expedita laborum fugit praesentium culpa autem!</p>
+          <p>Sara has a Master's degree in Curriculum and Education. Sara specializes in teaching reading, and reading recovery.</p>
         </div>
         <div class="span6">
           <img src="media/jerry-circle.png" alt="">
           <h3>Jerry Steele</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste magni molestiae sed commodi magnam doloribus recusandae dolorum reprehenderit aspernatur ad earum at provident voluptatum expedita laborum fugit praesentium culpa autem!</p>
+          <p>Jerry has degrees in Industrial and Electrical Engineering from the University of Iowa. He has worked as a marketing leader, designer and consultant for many companies including Integrated DNA Technologies, ACT, and IBM. He is the organizer of the Iowa Web Designers and Developers Meetup.</p>
         </div>
       </div>
       <div class="divider"></div>
